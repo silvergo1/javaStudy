@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-start/java-start.iml" filepath="$PROJECT_DIR$/java-start/java-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaStudy.iml" filepath="$PROJECT_DIR$/.idea/javaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textFiles/textFiles.iml" filepath="$PROJECT_DIR$/textFiles/textFiles.iml" />
     </modules>
   </component>
 </project>
