@@ -8,7 +8,7 @@ Student[] students = new Student[2];
 
 :star: 자바에서 대입은 항상 변수에 들어 있는 값을 복사한다 :star:
 
-:exclamation: 주의
+:exclamation: 주의 <br>
 변수에는 인스턴스 자체가 들어있는 것이 아님 <br>
 인스턴스의 위치를 가리키는 참조값이 들어있을 뿐 <br>
 따라서 대입`(=)`시에 인스턴스가 복사되는 것이 아니라 참조값만 복사됨
